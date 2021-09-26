@@ -1,0 +1,77 @@
+h1 {
+  color: black;
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+img {
+  width: 300px;
+  border-radius: 150px;
+}
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 16px;
+  background-color: rgb(109, 52, 52);
+}
+.My-form .form-group {
+  padding-bottom: 15px;
+}
+.My-form label {
+  display: block;
+}
+.My-form input[type="text"],
+.My-form textarea {
+  padding: 8px;
+  width: 50%;
+}
+.My-form input[type="submit"] {
+  background-color: black;
+  color: bisque;
+  padding: 10px 15px;
+}
+table {
+  box-sizing: border-box;
+  width: 600px;
+  padding-bottom: 20px;
+  box-shadow: -1px 12px 12px -6px rgba(0, 0, 0, 0.5);
+}
+table,
+td,
+th {
+  padding: 20px;
+  border: 1px solid lightgray;
+  border-collapse: collapse;
+  text-align: center;
+}
+th {
+  font-size: 16px;
+  background-color: rgb(55, 55, 55);
+}
+td {
+  background-color: darkgrey;
+}
+.My-form {
+  background-color: rgb(55, 55, 55);
+  box-shadow: -1px 12px 12px -6px rgba(0, 0, 0, 0.5);
+  width: 600px;
+}
+.My-form input[type="text"],
+textarea {
+  background-color: darkgray;
+  text-align: right;
+}
+p {
+  line-height: 1.6em;
+}
+ul {
+  line-height: 1.6em;
+}
+.box-1 {
+  background-color: darkgrey;
+  box-shadow: -1px 12px 12px -6px rgba(0, 0, 0, 0.5);
+}
+.box-2 {
+  background: darkgrey;
+  box-shadow: -1px 12px 12px -6px rgba(0, 0, 0, 0.5);
+}
+.container {
+  width: 600px;
+}
