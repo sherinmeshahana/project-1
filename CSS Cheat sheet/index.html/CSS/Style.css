@@ -53,6 +53,7 @@ td {
   box-shadow: -1px 12px 12px -6px rgba(0, 0, 0, 0.5);
   width: 600px;
 }
+
 .My-form input[type="text"],
 textarea {
   background-color: darkgray;
